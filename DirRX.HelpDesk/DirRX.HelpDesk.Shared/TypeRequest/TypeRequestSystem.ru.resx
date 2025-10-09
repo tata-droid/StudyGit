@@ -68,4 +68,7 @@
   <data name="Property_Note" xml:space="preserve">
     <value>Примечание</value>
   </data>
+  <data name="Property_Type" xml:space="preserve">
+    <value>Тип</value>
+  </data>
 </root>
